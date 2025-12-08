@@ -1,0 +1,10 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
